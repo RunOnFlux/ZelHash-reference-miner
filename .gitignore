@@ -1,0 +1,12 @@
+*.o
+*.lib
+*.a
+makefile
+Makefile
+
+zelhash-opencl-miner
+zelhash-opencl-miner.exe
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
